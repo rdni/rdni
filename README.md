@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redninja9854
-- 👀 I’m interested in skript, java and python
-- 🌱 I’m currently working on skript plugins
+- 👀 I’m interested in python
+- 🌱 I’m currently working on python argparse scripts
 
 <!---
 redninja9854/redninja9854 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
