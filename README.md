@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redninja9854
+- 👋 Hi, I’m @rdni
 - 👀 I’m interested in python
 
 <!---
